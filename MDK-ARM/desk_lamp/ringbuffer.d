@@ -1,0 +1,9 @@
+desk_lamp\ringbuffer.o: ..\Utils\ringbuffer.c
+desk_lamp\ringbuffer.o: ..\Utils\ringBuffer.h
+desk_lamp\ringbuffer.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+desk_lamp\ringbuffer.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdio.h
+desk_lamp\ringbuffer.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+desk_lamp\ringbuffer.o: D:\keil5\ARM\ARMCC\Bin\..\include\string.h
+desk_lamp\ringbuffer.o: ..\Utils\common.h
+desk_lamp\ringbuffer.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdbool.h
+desk_lamp\ringbuffer.o: D:\keil5\ARM\ARMCC\Bin\..\include\ctype.h

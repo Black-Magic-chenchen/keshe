@@ -1,0 +1,9 @@
+desk_lamp\datapointtools.o: ..\Utils\dataPointTools.c
+desk_lamp\datapointtools.o: ..\Utils\dataPointTools.h
+desk_lamp\datapointtools.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+desk_lamp\datapointtools.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdio.h
+desk_lamp\datapointtools.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+desk_lamp\datapointtools.o: D:\keil5\ARM\ARMCC\Bin\..\include\string.h
+desk_lamp\datapointtools.o: ..\Utils\common.h
+desk_lamp\datapointtools.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdbool.h
+desk_lamp\datapointtools.o: D:\keil5\ARM\ARMCC\Bin\..\include\ctype.h

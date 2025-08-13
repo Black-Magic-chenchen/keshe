@@ -1,0 +1,15 @@
+desk_lamp\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/queue.c
+desk_lamp\queue.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+desk_lamp\queue.o: D:\keil5\ARM\ARMCC\Bin\..\include\string.h
+desk_lamp\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+desk_lamp\queue.o: D:\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+desk_lamp\queue.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+desk_lamp\queue.o: ../Core/Inc/FreeRTOSConfig.h
+desk_lamp\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+desk_lamp\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+desk_lamp\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+desk_lamp\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+desk_lamp\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+desk_lamp\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+desk_lamp\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+desk_lamp\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h

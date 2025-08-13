@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "struct_typedef.h": "c",
+        "stdbool.h": "c",
+        "oled.h": "c",
+        "common.h": "c",
+        "gizwits_product.h": "c"
+    }
+}
